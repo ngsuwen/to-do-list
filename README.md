@@ -5,3 +5,4 @@ https://ngsuwen.github.io/to-do-list/
 * **CSS**
 * **Javascript**
 * **Jquery** is used to manage DOM manipulation 
+* **Jquery UI** is used for draggable and droppable
